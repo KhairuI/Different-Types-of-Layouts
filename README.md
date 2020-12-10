@@ -4,4 +4,5 @@
 02. Relative Layout
 03. Coordinate  Layout
 04. AutoComplete TextView
+05. Collapsing Toolbar
  
